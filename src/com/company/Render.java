@@ -1,6 +1,5 @@
 package com.company;
 
-
 import static com.company.Main.Hidden;
 import static com.company.Main.Pole;
 
